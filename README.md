@@ -9,7 +9,7 @@ HI, IM YEL! :wave:
 
 **TECH STACK**
 ---
-
+<img src="https://img.shields.io/badge/C%23-blue">
 
 
 
