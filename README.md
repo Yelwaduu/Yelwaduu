@@ -1,4 +1,4 @@
-<h1 style="text-align:center;"> HI!, IM YEL!👋:</h1>
+<h1 style="text-align:center"> HI!, IM YEL!👋:</h1>
 ---
 **Aspiring Full Stack Developer - Game Developer - Cyber Security Specialist - Block Chain Contract Dev**
 
