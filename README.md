@@ -15,24 +15,23 @@
 ---
 
 <div class="Badges" style="display: block-inline; margin: 10px" >
-  <img src="https://img.shields.io/badge/C%23-blue">
-  <img src="https://img.shields.io/badge/HTML-orange">
-  <img src="https://img.shields.io/badge/CSS-cyan">
-  <img src="https://img.shields.io/badge/SQL-darkblue">
-  <img src="https://img.shields.io/badge/PYTHON-purple">
+  <img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=c">
+  <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS-darkblue?style=for-the-badge&logo=css">
+  <img src="https://img.shields.io/badge/CSS-yellow?style=for-the-badge&logo=python">
 </div>
 
 **🔧 PROJECTS**
 ---
 <div>
- <img src="https://img.shields.io/badge/UNITY-ScrapKnight-purple">
+ <img src="https://img.shields.io/badge/UNITY-ScrapKnight-purple?style=for-the-badge&logo=unity">
   <br>
-  <img src="https://img.shields.io/badge/MOVE-NFT%20Shop-blue">
+  <img src="https://img.shields.io/badge/SUI-NFT%20Shop-blue?style=for-the-badge&logo=sui">
 </div>
 
 ---
 
-<h4 align="center"> ON PROGRESS </h4>
+<h4 align="center"> IN PROGRESS </h4>
 
 
 
