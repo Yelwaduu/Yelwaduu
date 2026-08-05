@@ -9,7 +9,7 @@ HI, IM YEL! :wave:
 
 **TECH STACK**
 ---
-<div class="Badges" style="display: block-inline">
+<div class="Badges" style="display: block-inline; margin: 10px" >
   <img src="https://img.shields.io/badge/C%23-blue">
   <img src="https://img.shields.io/badge/HTML-orange">
   <img src="https://img.shields.io/badge/CSS-cyan">
