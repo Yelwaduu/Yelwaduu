@@ -14,7 +14,7 @@ HI, IM YEL! :wave:
   <img src="https://img.shields.io/badge/HTML-orange">
   <img src="https://img.shields.io/badge/CSS-cyan">
   <img src="https://img.shields.io/badge/SLQ-darkblue">
-  <img src="https://img.shields.io/badge/Python-purple">
+  <img src="https://img.shields.io/badge/PYTHON-purple">
 </div>
 
 
