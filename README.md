@@ -11,15 +11,20 @@
 
 - Junior Computer Science Student
 
-**⚙️ TECH STACK**
+**🔩 TECH STACK**
 ---
 
 <div class="Badges" style="display: block-inline; margin: 10px" >
-  <img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=c">
-  <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/CSS-darkblue?style=for-the-badge&logo=css">
-  <img src="https://img.shields.io/badge/CSS-yellow?style=for-the-badge&logo=python">
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,css,html,mysql,python" />
+  </a>
 </div>
+
+**⚙️ DEV TOOLS**
+---
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,unity" />
+  </a>
 
 **🔧 PROJECTS**
 ---
